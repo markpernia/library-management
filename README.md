@@ -1,4 +1,4 @@
-### *This is just a made up REST project for practice <br> feel free to fork it.*😉
+### *This serves as a fictitious REST project intended for practice purposes.<br>Please feel free to fork it 😉*
 
 ## Task: Library Management System
 This task involves creating two entities: Author and Book.<br>
